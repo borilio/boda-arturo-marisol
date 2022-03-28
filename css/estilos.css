@@ -9,11 +9,22 @@ body {
     font-family: 'Dancing Script', cursive;
 }
 
-.fondo-whatsapp {
-    background-color: #00a884;
+.color-whatsapp {
+    color:#00a884 !important;
+    border-color:#00a884 !important;
 }
 
-.fondo-llamada {
-    background-color: #045185;
+.color-whatsapp:hover {
+    background-color: #00a884 !important;
+    color: white !important;
 }
 
+.color-llamada {
+    color:#045185 !important;
+    border-color:#045185 !important;
+}
+
+.color-llamada:hover {
+    background-color: #045185 !important;
+    color: white !important;
+}
